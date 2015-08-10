@@ -5,9 +5,9 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               Poole
-tagline:             The Jekyll Butler
-url:                 http://getpoole.com
+title:               Kenix
+tagline:             The Perfect Prey
+url:                 http://kenix.github.io
 paginate:            1
 baseurl:             ""
 
@@ -20,11 +20,16 @@ sass:
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Mike Zhao
+  url:               https://twitter.com/bluepinme
+  email:             zhongda.zhao@gmail.com
 
 # Custom vars
 version:             2.0.0
 github:
-  repo:              https://github.com/poole/poole
+  repo:              https://github.com/kenix/kenix.github.io
+
+# Page list
+pages_list:       
+  About: '/about'
+  Archive: '/archive'
