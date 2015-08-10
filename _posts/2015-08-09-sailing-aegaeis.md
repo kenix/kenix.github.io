@@ -1,3 +1,8 @@
+---
+title: Segeltörn Ägäis
+layout: post
+comments: true
+---
 Nach einer altbekannten Dusche und einem stabilen Schlaf stand ich auf und ging mich waschen. Die Fieber auf meiner Handfläche ging nach. Als meine Hand mein Gesicht berührte, hatte ich das Gefühl, als ob ich die Spuren der Sonnencreme während den 6 Tagen immer noch spüren könnte. Nachdem meine Fingern reibungslos durch meine nicht mehr so klebrigen Haare gingen, wusste ich, dass es die lebhafte Erinnerung war - diesmal eine kleine griechische Saga mit 6 Rollen auf Ägäis-Meer.
 
 **Saga:** das flinke Segelboot, das weißt, in die See zu stechen
