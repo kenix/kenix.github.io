@@ -12,5 +12,5 @@ Vathi über Perdika nach Metapi|06.08.2015 09:59 am|28,55 kilometers|3:10:39|9,0
 Metapi nach Kalamaki|07.08.2015 09:49 am|42.02 kilometers|4:30:40|9,3 km/h|15,3 km/h|[view](http://gps.motionx.com/maps/cf45cbda1dcf93318d1083d75b1a4503)
 
 Die Links funktionieren nur für eine begrenzte Zeit. Aber von der Track-Seite lassen sich die Tracking-Dateien herunterladen, die für immer auf MotionX GPS app oder google Earth abgespielt werden können:
-  - *.gpx Datei für MotionX GPX app
-  - *.kmz Datei für google Earth
+- *.gpx Datei für MotionX GPX app
+- *.kmz Datei für google Earth
