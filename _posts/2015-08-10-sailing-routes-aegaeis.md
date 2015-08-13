@@ -2,6 +2,10 @@
 title: Die Furchen Segeltörn Ägäis
 layout: post
 ---
+[Gesamte Route von Lavrio bis Kalamaki auf einer Karte](http://gps.motionx.com/maps/96a943ab1976e6bbc55b2cff44d71738)
+
+Einzelne Route nach Tagen sortiert:
+
 Name|Date|Distance|Elapsed Time|Avg Speed|Max Speed|Map
 ----|----|--------|------------|---------|---------|---
 Lavrion nach Poros|02.08.2015 11:39 am|67,4 kilometers|6:16:09|10,8 km/h|15,2 km/h|[view](http://gps.motionx.com/maps/8588ae6d0a8de7207e6e3becb2b8b6b0)
